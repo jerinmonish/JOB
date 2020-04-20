@@ -50,7 +50,7 @@
 
 <p>Framework used: Laravel (6.15.1)</p>
 
-<p>For your information still it has some frontend bugs like</p>
+<p>For your information still it has some frontend bugs like and i am working on it</p>
     <ul>
         <li>while chatting with employer => employee and inverse of them, messages are not properly appended.</li>
         <li>unwanted chat links for admin and other places where its is not required.</li>
